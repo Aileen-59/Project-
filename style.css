@@ -10,7 +10,7 @@ main{
 h1{
     font-family: "Momo Signature", cursive;
     font-weight:normal;
-    position:absolute;
+    
 }
 
 img{
@@ -28,9 +28,7 @@ nav{
 
 }
 
-.title{
-    position:absolute;
-}
+
 =======
 h1{
     color: orange;
