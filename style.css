@@ -1,8 +1,61 @@
+<<<<<<< HEAD
+footer{
+    text-align:center;
+}
+
+main{
+    position:relative;
+}
+
+h1{
+    font-family: "Changa One", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align:right;
+
+}
+
+h2{
+    text-align:right;
+}
+
+.hero-section{
+    background:url("https://www.collegetransitions.com/wp-content/uploads/2024/12/college-student-life.jpg");
+    background-size: cover;
+    background-position: center center;
+    height:500px;
+}
+
+.standout-box{
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-family: "Merriweather", serif;
+    width:500px;
+}
+
+img{
+    height:250px;
+}
+
+nav{
+    background-color: lightgreen;
+    top: 10px;
+    left: 10px;
+    padding: 2px 8px;
+    width:70px;
+
+
+}
+
+
+=======
 h1{
     color: red;
     text-align: center;
 }
 
+<<<<<<< HEAD
 h2{
     color: black;
 
@@ -23,4 +76,10 @@ h2{
     color: black;
     font-size: 1.5rem;
     font-weight: bold;
+=======
+h3{
+    color: red;
+
+>>>>>>> d46ad835074cbcac5a77238c1071101c58d605a5
+>>>>>>> 7c6bf94386840eee5a48b05f92f38b27acd38ad0
 }
