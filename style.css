@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 footer{
-    text-align:center
+    text-align:center;
 }
 
 main{
@@ -8,21 +8,34 @@ main{
 }
 
 h1{
-    font-family: "Momo Signature", cursive;
-    font-weight:normal;
+    font-family: "Changa One", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align:right;
 
 }
 
-.harvard{
-    width:100px;
-
+h2{
+    text-align:right;
 }
 
+.hero-section{
+    background:url("https://www.collegetransitions.com/wp-content/uploads/2024/12/college-student-life.jpg");
+    background-size: cover;
+    background-position: center center;
+    height:500px;
+}
+
+.standout-box{
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-family: "Merriweather", serif;
+    width:500px;
+}
 
 img{
-    width:100%;
-    height: 450px;
-    object-fit:cover;
+    height:250px;
 }
 
 nav{
