@@ -86,12 +86,35 @@ nav{
 
 =======
 h1{
-    color: orange;
+    color: red;
     text-align: center;
 }
 
+<<<<<<< HEAD
+h2{
+    color: black;
+
+}
+
+.standout-box{
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-family: "Merriweather", serif;
+    width:500px;
+
+}
+
+}
+.subtitle{
+    text-transform: uppercase;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+=======
 h3{
     color: red;
 
 >>>>>>> d46ad835074cbcac5a77238c1071101c58d605a5
+>>>>>>> 7c6bf94386840eee5a48b05f92f38b27acd38ad0
 }
